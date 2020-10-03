@@ -1,2 +1,2 @@
-personal_username = "alexanderkhesin"
-personal_password = "Spider4826#!"
+personal_username = "[username]"
+personal_password = "[password]"
